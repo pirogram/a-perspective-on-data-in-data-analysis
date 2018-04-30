@@ -1,0 +1,7 @@
+code: a-perspective-on-data-in-data-analysis
+title: A Perspective on Data in Data Analysis
+description: Application developers think of data in the form of Entities, Relationships and their Attributes. On the other hand, a data analyst thinks of data as a set of Observations. It's important to develop a mental model about data which is better suited for data analysis as one enters this field.
+version: 0.1.0
+license: CC-BY-SA
+author_name: Manas Garg
+author_url: http://www.fuzzysparkle.com
